@@ -4,3 +4,5 @@ pep8
 pycodestyle
 pytz
 sqlparse
+django-allauth
+django-countries
